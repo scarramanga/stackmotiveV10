@@ -1,0 +1,1 @@
+export default function Tooltips() { return <div>Tooltip Settings</div>; }
